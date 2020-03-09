@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yelp-challenge/static/css/main.783ac5c6.chunk.css",
+    "main.js": "/yelp-challenge/static/js/main.a5cb6ccd.chunk.js",
+    "main.js.map": "/yelp-challenge/static/js/main.a5cb6ccd.chunk.js.map",
+    "runtime-main.js": "/yelp-challenge/static/js/runtime-main.1bbca75a.js",
+    "runtime-main.js.map": "/yelp-challenge/static/js/runtime-main.1bbca75a.js.map",
+    "static/js/2.4264e662.chunk.js": "/yelp-challenge/static/js/2.4264e662.chunk.js",
+    "static/js/2.4264e662.chunk.js.map": "/yelp-challenge/static/js/2.4264e662.chunk.js.map",
+    "index.html": "/yelp-challenge/index.html",
+    "precache-manifest.df9a8635de958f71d699b585a6728122.js": "/yelp-challenge/precache-manifest.df9a8635de958f71d699b585a6728122.js",
+    "service-worker.js": "/yelp-challenge/service-worker.js",
+    "static/css/main.783ac5c6.chunk.css.map": "/yelp-challenge/static/css/main.783ac5c6.chunk.css.map",
+    "static/js/2.4264e662.chunk.js.LICENSE.txt": "/yelp-challenge/static/js/2.4264e662.chunk.js.LICENSE.txt",
+    "static/media/peopleEating.jpg": "/yelp-challenge/static/media/peopleEating.1860fd96.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bbca75a.js",
+    "static/js/2.4264e662.chunk.js",
+    "static/css/main.783ac5c6.chunk.css",
+    "static/js/main.a5cb6ccd.chunk.js"
+  ]
+}
